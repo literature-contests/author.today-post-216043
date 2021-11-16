@@ -1,4 +1,4 @@
-# author.today-post-216043
+# Буйная фантазия 4
 Конкурс "Буйная фантазия 4" https://author.today/post/216043
 
 Член общественного жюри Альртат Исков https://author.today/u/alrtat
