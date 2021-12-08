@@ -107,3 +107,6 @@ https://author.today/work/1234
 
 55. ValeryR "О, Голубка моя...";
 https://author.today/work/161585
+
+60. Бр-Кузнецов "Вот это поворот... Фрагменты романа "Мертвые пляшут"";
+https://author.today/post/222703
