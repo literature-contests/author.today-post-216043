@@ -10,5 +10,5 @@ https://github.com/literature-contests/author.today-post-216043/tree/main/evalua
 Длинный список произведений см. в файле https://github.com/literature-contests/author.today-post-216043/blob/main/evaluation/0.txt
 
 ## Оценки произведений, попавших в длинный список
-Оценки произведений, попавших в длинный список, находятся в папке final , в файле list.txt
-https://github.com/literature-contests/author.today-post-216043/blob/main/final/list.txt
+Оценки произведений, попавших в длинный список, находятся в папке final
+https://github.com/literature-contests/author.today-post-216043/blob/main/final/
