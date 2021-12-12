@@ -21,6 +21,10 @@ https://github.com/literature-contests/author.today-post-216043/blob/main/evalua
 
 	https://author.today/work/62727
 
+№64. Линкор Айова "Поцелуй Инии."
+
+	https://author.today/work/162076
+
 
 №54. Синецкий Алексей "Окей, Зигмунд!"
 
