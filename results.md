@@ -6,16 +6,31 @@ https://author.today/u/alrtat
 https://github.com/literature-contests/author.today-post-216043/blob/main/evaluation/0.txt
 
 # Избранный список
+
 №32. Vasermanic "Ужасное преступление на улице стрит"
+
 	https://author.today/post/218309
+
+
 №16. Dayneen "Герой и NPC"
+
 	https://author.today/work/121022
+
+	
 №11. Попов Дмитрий "Одинокая девушка на Большой Ночной Дороге"
+
 	https://author.today/work/62727
+
+
 №54. Синецкий Алексей "Окей, Зигмунд!"
+
 	https://author.today/work/161162
+
+
 №10. Наталья Болдырева "Генератор случайных чисел"
+
 	https://author.today/reader/6132
+
 
 # Список произведений по занятым местам
 
