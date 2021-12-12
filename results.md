@@ -16,10 +16,11 @@ https://github.com/literature-contests/author.today-post-216043/blob/main/evalua
 
 	https://author.today/work/121022
 
-	
+
 №11. Попов Дмитрий "Одинокая девушка на Большой Ночной Дороге"
 
 	https://author.today/work/62727
+
 
 №64. Линкор Айова "Поцелуй Инии."
 
@@ -29,11 +30,6 @@ https://github.com/literature-contests/author.today-post-216043/blob/main/evalua
 №54. Синецкий Алексей "Окей, Зигмунд!"
 
 	https://author.today/work/161162
-
-
-№10. Наталья Болдырева "Генератор случайных чисел"
-
-	https://author.today/reader/6132
 
 
 # Список произведений по занятым местам
