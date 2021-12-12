@@ -12,3 +12,6 @@ https://github.com/literature-contests/author.today-post-216043/tree/main/evalua
 ## Оценки произведений, попавших в длинный список
 Оценки произведений, попавших в длинный список, находятся в папке final
 https://github.com/literature-contests/author.today-post-216043/blob/main/final/
+
+Результаты в файле
+https://github.com/literature-contests/author.today-post-216043/blob/main/results.md
