@@ -16,9 +16,6 @@ https://github.com/literature-contests/author.today-post-216043/blob/main/evalua
 
 	https://author.today/work/121022
 
-№76. Никола Ющер "Возвращение Чёрного Властелина";
-	https://author.today/work/158350
-
 
 №11. Попов Дмитрий "Одинокая девушка на Большой Ночной Дороге"
 
@@ -28,6 +25,11 @@ https://github.com/literature-contests/author.today-post-216043/blob/main/evalua
 №64. Линкор Айова "Поцелуй Инии."
 
 	https://author.today/work/162076
+
+
+№76. Никола Ющер "Возвращение Чёрного Властелина";
+
+	https://author.today/work/158350
 
 
 №54. Синецкий Алексей "Окей, Зигмунд!"
