@@ -16,6 +16,9 @@ https://github.com/literature-contests/author.today-post-216043/blob/main/evalua
 
 	https://author.today/work/121022
 
+№76. Никола Ющер "Возвращение Чёрного Властелина";
+	https://author.today/work/158350
+
 
 №11. Попов Дмитрий "Одинокая девушка на Большой Ночной Дороге"
 
