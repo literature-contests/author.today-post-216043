@@ -27,7 +27,7 @@ https://github.com/literature-contests/author.today-post-216043/blob/main/evalua
 	https://author.today/work/162076
 
 
-№76. Никола Ющер "Возвращение Чёрного Властелина";
+№76. Никола Ющер "Возвращение Чёрного Властелина"
 
 	https://author.today/work/158350
 
@@ -35,6 +35,15 @@ https://github.com/literature-contests/author.today-post-216043/blob/main/evalua
 №54. Синецкий Алексей "Окей, Зигмунд!"
 
 	https://author.today/work/161162
+
+
+№80. Дмитрий Баранов "Красота спасёт мир?"
+
+	https://author.today/work/163124
+
+№44. Варот "Конкурсный отрывок романа "Наивный дурак""
+
+	https://author.today/work/161180
 
 
 # Список произведений по занятым местам
